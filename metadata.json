@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Daily Savings Tracker",
+  "description": "Easily track your daily savings and monitor your total accumulated wealth with this simple mobile app.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
